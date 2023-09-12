@@ -1,38 +1,30 @@
-### <h1 align="center">👋 Hello, I'm [Your Name]</h1>
+### <h1 align="center">👋 Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
 
-<p align="center">A passionate software developer on a journey to explore the magic of code. Welcome to my digital world! 🚀</p>
+<p align="center"><b></b>Welcome to my profile </b></p>
 
 <h2>About Me</h2>
 
-- 💻 Creating web wonders and crafting delightful user experiences.
-- 🌱 Lifelong learner, always eager for new coding adventures.
-- 🌍 Believer in technology's power to make the world a better place.
-
-<h2>What's Keeping Me Busy</h2>
-
-- 🚀 Building awesome projects that solve real-world problems.
-- 📚 Learning [Current Learning Focus].
-- 🤝 Collaborating with amazing developers and open-source communities.
+- 🎓 I am an IT Undergraduate.
+- 📚 I am reading for a BSc(Hons) in Information Technology degree .
+- 🌱 Lifelong learner, always eager for learn new things.
+- ✨ Interest in Photography & Videography.
+- 🔮 Love for graphic designing.
+- 📫 Can reach me at athilanishalinga@gmail.com
+- 🌐 Connect with me on <a href = "www.linkedin.com/in/athilani-shalinga-a634ab254">LinkedIn/shalingaAthilani</a>
+- ✍️ You can read my articles on <a href = "https://medium.com/@athilanishalinga">medium</a>
 
 <h2>Tech Stack</h2>
 
+- 🧩 C | Java
 - 🌟 JavaScript | React | Node.js
 - 💾 MongoDB | SQL
-- 🚢 Docker | Kubernetes
-- ☁️ AWS | GCP
-- 🧩 [Add More Here]
-
-<h2>Let's Connect</h2>
-
-- 📫 Drop me a line at athilanishalinga@gmail.com
-- 🌐 Connect with me on <a href = "www.linkedin.com/in/athilani-shalinga-a634ab254">LinkedIn/shalingaAthilani</a>
-- 🐦 Follow me on [Twitter](https://twitter.com/yourusername).
 
 <h2>Fun Facts</h2>
 
-- 🎵 I can play [Instrument Name].
-- 🎮 [Favorite Video Game Title] is my guilty pleasure.
-- 🌌 I'm fascinated by astrophysics and stargazing.
+- 🎵 Music lover.
+- 🎹 Can play Organ
+- ♟️ Play chess.
+
 
 Thanks for stopping by! Let's write some code and make the world more exciting, one commit at a time. 🌟
 
