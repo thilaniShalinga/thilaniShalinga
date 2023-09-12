@@ -4,26 +4,26 @@
 
 <h2>About Me</h2>
 
-<i>- 🎓 I am an IT Undergraduate.
-- 📚 I am reading for a BSc(Hons) in Information Technology degree .
-- 🌱 Lifelong learner, always eager for learn new things.
-- ✨ Interest in Photography & Videography.
-- 🔮 Love for graphic designing.
-- 📫 Can reach me at athilanishalinga@gmail.com
-- 🌐 Connect with me on <a href = "www.linkedin.com/in/athilani-shalinga-a634ab254">LinkedIn/shalingaAthilani</a>
-- ✍️ You can read my articles on <a href = "https://medium.com/@athilanishalinga">medium</a>
+<i> - 🎓 I am an IT Undergraduate. </i>
+<i> - 📚 I am reading for a BSc(Hons) in Information Technology degree .</i>
+<i> - 🌱 Lifelong learner, always eager for learn new things.</i>
+<i> - ✨ Interest in Photography & Videography. </i>
+<i> - 🔮 Love for graphic designing.</i>
+<i> - 📫 Can reach me at athilanishalinga@gmail.com</i>
+<i> - 🌐 Connect with me on <a href = "www.linkedin.com/in/athilani-shalinga-a634ab254">LinkedIn/shalingaAthilani</a></i>
+<i> - ✍️ You can read my articles on <a href = "https://medium.com/@athilanishalinga">medium</a></i>
 
 <h2>Tech Stack</h2>
 
-- 🧩 C | Java
-- 🌟 JavaScript | React | Node.js
-- 💾 MongoDB | SQL
+<i> - 🧩 C | Java</i>
+<i> - 🌟 JavaScript | React | Node.js</i>
+<i> - 💾 MongoDB | SQL</i>
 
 <h2>Fun Facts</h2>
 
-- 🎵 Music lover.
-- 🎹 Can play Organ
-- ♟️ Play chess.</i>
+<i> - 🎵 Music lover.</i>
+<i> - 🎹 Can play Organ</i>
+<i> - ♟️ Play chess.</i>
 
 
 Thanks for stopping by! Let's write some code and make the world more exciting, one commit at a time. 🌟
