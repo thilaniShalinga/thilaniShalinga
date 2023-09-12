@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 
-- 🎓 I am an IT Undergraduate.
+<i>- 🎓 I am an IT Undergraduate.
 - 📚 I am reading for a BSc(Hons) in Information Technology degree .
 - 🌱 Lifelong learner, always eager for learn new things.
 - ✨ Interest in Photography & Videography.
@@ -23,7 +23,7 @@
 
 - 🎵 Music lover.
 - 🎹 Can play Organ
-- ♟️ Play chess.
+- ♟️ Play chess.</i>
 
 
 Thanks for stopping by! Let's write some code and make the world more exciting, one commit at a time. 🌟
