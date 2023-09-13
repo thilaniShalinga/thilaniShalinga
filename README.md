@@ -1,7 +1,8 @@
 
+![Uploading 575-5750215_hello-clipart-wave-hand-picture-waving-goodbye-clipart.png…]()
 
 
-<h1 align="center">![575-5750215_hello-clipart-wave-hand-picture-waving-goodbye-clipart](https://github.com/thilaniShalinga/thilaniShalinga/assets/121634160/492263fc-2cb0-48e7-bd04-bb04ef905281) Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
+<h1 align="center"> Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
 
 <p align="center"><i><font face="Brush Script MT" color="red"><h2 align ="center" font type = ""></b>Welcome to my profile </h2></font></i></p>
 
