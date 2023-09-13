@@ -1,6 +1,6 @@
 ### <h1 align="center">👋 Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
 
-<p align="center"><i><h2></b>Welcome to my profile </h2></i>i</p>
+<p align="center"><i><h2></b>Welcome to my profile </h2></i></p>
 
 <h2>About Me</h2>
 
@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shalinga Athilani&show_icons=true" alt="My GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=thilaniShalinga&show_icons=true" alt="My GitHub Stats">
 </p>
 
 
