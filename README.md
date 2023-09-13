@@ -1,6 +1,6 @@
 ### <h1 align="center">👋 Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
 
-<p align="center"><i><h2 align ="center" font type = "Brush Script MT"></b>Welcome to my profile </h2></i></p>
+<p align="center"><i><font face="Brush Script MT" color="red"><h2 align ="center" font type = ""></b>Welcome to my profile </h2></font></i></p>
 
 <h2>About Me</h2>
 
