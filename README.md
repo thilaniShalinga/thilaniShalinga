@@ -1,5 +1,5 @@
-###https://tenor.com/TS3c.gif 
-![Uploading 575-5750215_hello-clipart-wave-hand-picture-waving-goodbye-clipart.png…]()
+
+![575-5750215_hello-clipart-wave-hand-picture-waving-goodbye-clipart](https://github.com/thilaniShalinga/thilaniShalinga/assets/121634160/492263fc-2cb0-48e7-bd04-bb04ef905281)
 
 <h1 align="center"> Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
 
