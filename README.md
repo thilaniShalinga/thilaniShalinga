@@ -1,7 +1,5 @@
 
-![Uploading 575-5750215_hello-clipart-wave-hand-picture-waving-goodbye-clipart.png…]()
-
-<h1 align="center"> Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
+<h1 align="center">👋 Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
 
 <p align="center"><i><font face="Brush Script MT" color="red"><h2 align ="center" font type = ""></b>Welcome to my profile </h2></font></i></p>
 
@@ -23,8 +21,6 @@
 - 💾 <i>MongoDB | SQL</i>
 
 <h2>Fun Facts</h2>
-![1414-Angel-Number--1024x576](https://github.com/thilaniShalinga/thilaniShalinga/assets/121634160/ea59f73f-9819-43ae-ad12-45dacf6d7371)
-
 
 - 🎵 <i>Music lover.</i>
 - 🎹 <i>Can play Organ</i>
