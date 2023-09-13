@@ -1,4 +1,6 @@
-### <h1 align="center">👋 Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
+###<center><img src = "https://tenor.com/TS3c.gif"></center> 
+
+<h1 align="center"> Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
 
 <p align="center"><i><font face="Brush Script MT" color="red"><h2 align ="center" font type = ""></b>Welcome to my profile </h2></font></i></p>
 
