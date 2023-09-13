@@ -22,7 +22,8 @@
 - 🌟 <i>JavaScript | React | Node.js</i>
 - 💾 <i>MongoDB | SQL</i>
 
-<h2>Fun Facts</h2>![1414-Angel-Number--1024x576](https://github.com/thilaniShalinga/thilaniShalinga/assets/121634160/ea59f73f-9819-43ae-ad12-45dacf6d7371)
+<h2>Fun Facts</h2>
+![1414-Angel-Number--1024x576](https://github.com/thilaniShalinga/thilaniShalinga/assets/121634160/ea59f73f-9819-43ae-ad12-45dacf6d7371)
 
 
 - 🎵 <i>Music lover.</i>
