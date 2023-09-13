@@ -16,7 +16,8 @@
 <h2>Tech Stack</h2>
 
 - 🧩 <i>C | Java</i>
-- 🌟 <i>JavaScript | React | Node.js</i>
+- 🌟 <i>JavaScript | React | Node.js</i>![1414-Angel-Number--1024x576](https://github.com/thilaniShalinga/thilaniShalinga/assets/121634160/1c7fb61e-b804-4a78-b052-d83b51c55dfa)
+
 - 💾 <i>MongoDB | SQL</i>
 
 <h2>Fun Facts</h2>
