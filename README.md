@@ -16,8 +16,7 @@
 <h2>Tech Stack</h2>
 
 - 🧩 <i>C | Java</i>
-- 🌟 <i>JavaScript | React | Node.js</i>![1414-Angel-Number--1024x576](https://github.com/thilaniShalinga/thilaniShalinga/assets/121634160/1c7fb61e-b804-4a78-b052-d83b51c55dfa)
-
+- 🌟 <i>JavaScript | React | Node.js</i>
 - 💾 <i>MongoDB | SQL</i>
 
 <h2>Fun Facts</h2>
@@ -26,6 +25,7 @@
 - 🎹 <i>Can play Organ</i>
 - ♟️ <i>Play chess.</i>
 
+<img src = "![1w](https://github.com/thilaniShalinga/thilaniShalinga/assets/121634160/1b6fd09f-f939-4cca-91cb-198f635250f2)" align = "right">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thilaniShalinga&show_icons=true" alt="My GitHub Stats">
