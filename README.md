@@ -25,7 +25,6 @@
 - 🎹 <i>Can play Organ</i>
 - ♟️ <i>Play chess.</i>
 
-<img src = "![1w](https://github.com/thilaniShalinga/thilaniShalinga/assets/121634160/1b6fd09f-f939-4cca-91cb-198f635250f2)" align = "right">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thilaniShalinga&show_icons=true" alt="My GitHub Stats">
