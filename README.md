@@ -4,8 +4,8 @@
 
 <h2>About Me</h2>
 
-- 🎓 <i>I am an IT Undergraduate. </i>
-- 📚 <i>I am reading for a BSc(Hons) in Information Technology degree .</i>
+- 🎓 <i>I am an<b> IT</b> Undergraduate. </i>
+- 📚 <i>I am reading for a <b>BSc(Hons) in Information Technology</b> degree.</i>
 - 🌱 <i>Lifelong learner, always eager for learn new things.</i>
 - ✨ <i>Interest in Photography & Videography. </i>
 - 🔮 <i>Love for graphic designing.</i>
