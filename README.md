@@ -1,4 +1,4 @@
-###<center><img src = "https://tenor.com/TS3c.gif"></center> 
+###https://tenor.com/TS3c.gif 
 
 <h1 align="center"> Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
 
