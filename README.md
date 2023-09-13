@@ -1,6 +1,8 @@
 
-![Uploading 575-5750215_hello-clipart-wave-hand-picture-waving-goodbye-clipart.png…]()
 
+<p align="center">
+  <img src="![Uploading 575-5750215_hello-clipart-wave-hand-picture-waving-goodbye-clipart.png…]() alt="My GitHub Stats">
+</p
 
 <h1 align="center"> Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
 
