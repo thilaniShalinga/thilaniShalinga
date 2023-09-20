@@ -7,7 +7,6 @@
 
 - 🎓 <i>I am an<b> IT</b> Undergraduate. </i>
 - 📚 <i>I am reading for a <b>BSc(Hons) in Information Technology</b> degree.</i>
-- 🌱 <i>Lifelong learner, always eager for learn new things.</i>
 - ✨ <i>Interest in Photography & Videography. </i>
 - 🔮 <i>Love for graphic designing.</i>
 - 📫 <i>Can reach me at athilanishalinga@gmail.com</i>
@@ -26,7 +25,7 @@
 - 🎹 <i>Can play Organ</i>
 - ♟️ <i>Play chess.</i>
 
-![Uploading 1414-Angel-Number--1024x576.jpg…]()
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thilaniShalinga&show_icons=true" alt="My GitHub Stats">
