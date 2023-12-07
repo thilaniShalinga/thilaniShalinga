@@ -2,7 +2,6 @@
 <h1 align="center">👋 Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
 
 <p align="center"><i><font face="Brush Script MT" color="red"><h2 align ="center" font type = ""></b>Welcome to my profile </h2></font></i></p>
-<img align = "right" alt ="coding" width = "400" src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <h2>About Me</h2>
 
@@ -13,6 +12,8 @@
 - 📫 <i>Can reach me at athilanishalinga@gmail.com</i>
 - 🌐 <i>Connect with me on <a href = "www.linkedin.com/in/athilani-shalinga-a634ab254">LinkedIn/shalingaAthilani</a></i>
 - ✍️ You can read my articles on <a href = "https://medium.com/@athilanishalinga">medium</a></i>
+
+<img align = "right" alt ="coding" width = "500" src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <h2>Tech Stack</h2>
 
