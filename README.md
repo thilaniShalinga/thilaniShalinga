@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=thilaniShalinga)
 <h1 align="center">👋 Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
 
 <p align="center"><i><font face="Brush Script MT" color="red"><h2 align ="center" font type = ""></b>Welcome to my profile </h2></font></i></p>
