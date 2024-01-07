@@ -27,7 +27,8 @@
 - ♟️ <i>Play chess.</i>
 
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilaniShalinga&show_icons=true&locale=en&layout=compact" alt="thilaniShalinga" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thilaniShalinga&show_icons=true" alt="My GitHub Stats">
 </p>
