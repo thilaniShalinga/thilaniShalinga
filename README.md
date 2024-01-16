@@ -3,7 +3,6 @@
 
 <p align="center"><i><font face="Brush Script MT" color="red"><h2 align ="center" font type = ""></b>Welcome to my profile </h2></font></i></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thilaniShalinga&label=Profile%20views&color=0e75b6&style=flat" alt="thilaniShalinga" /> </p>
 
 <h2>About Me</h2>
 
