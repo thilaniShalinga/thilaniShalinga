@@ -1,6 +1,9 @@
+<img  width="1000" align="center" height="5" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 <h1 align="center">👋 Hello, I'm <i>Shalinga Athilani</i> 💫</h1>
 
 <p align="center"><i><font face="Brush Script MT" color="red"><h2 align ="center" font type = ""></b>Welcome to my profile </h2></font></i></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thilaniShalinga&label=Profile%20views&color=0e75b6&style=flat" alt="thilaniShalinga" /> </p>
 
 <h2>About Me</h2>
 
